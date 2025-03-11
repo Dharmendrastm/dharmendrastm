@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I'm  currently working on Cyber Security<br>🪴 I'm  currently learning in B-tech for Electrical and computer engineering<br>🌱 Preparing for CEH <br>👯 Collaborate on Open Source Projects<br>🎮 CTF Player at Hack The Box and TryHackMe<br>🔍 Cybersecurity Professional Exploring Penetration Tester<br>💂 Passionate About Offensive Security.<br>
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100073487926573) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dharmendra_stm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmendrastm/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@Dharmendrastm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/DHARMEN75705829) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@dhmobiletech) 
 
@@ -13,6 +12,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DharmendraStm&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DharmendraStm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ![](https://github-profile-trophy.vercel.app/?username=DharmendraStm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
