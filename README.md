@@ -29,7 +29,6 @@
 ## 💻 My Portfolio:  
 👉 **[Visit My Portfolio](https://dharmendrastm.github.io/PortfolioWebsite/)** 🚀 
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DharmendraStm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -40,8 +39,7 @@
 
 ![Your Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Cybersecurity%20is%20not%20a%20product%2C%20but%20a%20process.%20Stay%20vigilant%2C%20stay%20secure.)
 
-
----
+# 👁️ Visitor Counter
 [![](https://visitcount.itsvg.in/api?id=DharmendraStm&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
