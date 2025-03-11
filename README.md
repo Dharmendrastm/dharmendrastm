@@ -19,6 +19,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![Your Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Cybersecurity%20is%20not%20a%20product%2C%20but%20a%20process.%20Stay%20vigilant%2C%20stay%20secure.)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=DharmendraStm&icon=0&color=5)](https://visitcount.itsvg.in)
 
