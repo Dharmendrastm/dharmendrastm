@@ -1,11 +1,11 @@
 ## 🐍💻 About Me:  
 > "Hackers don't break in. They log in."  
 
-🛡️ **Cybersecurity Professional | Penetration Tester | Ethical Hacker**  
+🛡️ **Cybersecurity Professional | Penetration Tester | Ethical Hacker | jr Penetration tester**  
 - 🚀 Currently advancing my knowledge in **Cyber Security**.  
-- 💀 Preparing for **Certified Ethical Hacker (CEH)**.  
+- 💀 Currently Preparing for **eLearnSecurity Junior Penetration Tester (eJPT)**.
 - 💻 Passionate about **Offensive Security** & **Bug Bounty Hunting**.  
-- 🎮 Active **CTF Player** at **Hack The Box** & **TryHackMe**.  
+- 🎮 Active **CTF Player** at **Hack The Box** & **TryHackMe** & **Portswigger**.  
 - 🧱 Exploring deep into **Penetration Testing, Web Security & Vulnerability Research**.  
 - 👨‍💻 Collaborating on **Open-Source Projects**.  
 - 🎯 Passionate about **Red Teaming & Network Security**
