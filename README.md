@@ -1,14 +1,19 @@
 ## 🐍💻 About Me:  
 > "Hackers don't break in. They log in."  
 
-🛡️ ** |eJPT Certified| Cybersecurity Professional | Penetration Tester | Ethical Hacker | jr Penetration tester **  
-- 🚀 Currently advancing my knowledge in **Cyber Security**.  
-- 💀 Currently Preparing for **eLearnSecurity Junior Penetration Tester (eJPT)**.
-- 💻 Passionate about **Offensive Security** & **Bug Bounty Hunting**.  
-- 🎮 Active **CTF Player** at **Hack The Box** & **TryHackMe** & **Portswigger**.  
-- 🧱 Exploring deep into **Penetration Testing, Web Security & Vulnerability Research**.  
-- 👨‍💻 Collaborating on **Open-Source Projects**.  
-- 🎯 Passionate about **Red Teaming & Network Security**
+---
+
+🛡️ **eJPT Certified || Junior Penetration Tester || Ethical Hacker || Web & VAPT Specialist || Security Researcher ||CTF Player**
+
+* 🚀 Continuously expanding my expertise in **Cybersecurity & Ethical Hacking**.
+* 💀 Currently preparing for **Active Directory Red Team Specialist** certification.
+* 💻 Deeply passionate about **Offensive Security** & **Bug Bounty Hunting**.
+* 🎮 Active **CTF Player** on **Hack The Box**, **TryHackMe**, & **PortSwigger Labs**.
+* 🧱 Exploring advanced concepts in **Penetration Testing, Web Security & Vulnerability Research**.
+* 👨‍💻 Collaborating on innovative **Open-Source Security Projects**.
+* 🎯 Focused on mastering **Red Teaming, Network Security & Threat Simulation**.
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100073487926573) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dharmendra_stm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmendrastm/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dharmendrastm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/DHARMEN75705829) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@dhmobiletech) 
