@@ -1,7 +1,7 @@
 ## 🐍💻 About Me:  
 > "Hackers don't break in. They log in."  
 
-🛡️ **Cybersecurity Professional | Penetration Tester | Ethical Hacker | jr Penetration tester**  
+🛡️ ** |eJPT Certified| Cybersecurity Professional | Penetration Tester | Ethical Hacker | jr Penetration tester **  
 - 🚀 Currently advancing my knowledge in **Cyber Security**.  
 - 💀 Currently Preparing for **eLearnSecurity Junior Penetration Tester (eJPT)**.
 - 💻 Passionate about **Offensive Security** & **Bug Bounty Hunting**.  
