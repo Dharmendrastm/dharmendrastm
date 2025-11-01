@@ -1,8 +1,6 @@
 ## 🐍💻 About Me:  
 > "Hackers don't break in. They log in."  
 
----
-
 🛡️ **eJPT Certified || Junior Penetration Tester || Ethical Hacker || Web & VAPT Specialist || Security Researcher ||CTF Player**
 
 * 🚀 Continuously expanding my expertise in **Cybersecurity & Ethical Hacking**.
